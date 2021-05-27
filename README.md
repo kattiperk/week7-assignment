@@ -1,6 +1,6 @@
 ## Assignment Requirements
 
-* Messagind App
+* Messaging App
 * App will be used by everyone who wants to chat
 * App will provide:
   * Ability to send and receive messages
